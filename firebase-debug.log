@@ -1,0 +1,21 @@
+[debug] [2018-04-08T06:20:33.924Z] ----------------------------------------------------------------------
+[debug] [2018-04-08T06:20:33.926Z] Command:       /usr/bin/node /home/srikaewa/.pnm-global/bin/firebase serve --only functions,hosting
+[debug] [2018-04-08T06:20:33.926Z] CLI Version:   3.18.1
+[debug] [2018-04-08T06:20:33.926Z] Platform:      linux
+[debug] [2018-04-08T06:20:33.926Z] Node Version:  v8.11.1
+[debug] [2018-04-08T06:20:33.926Z] Time:          Sun Apr 08 2018 13:20:33 GMT+0700 (+07)
+[debug] [2018-04-08T06:20:33.926Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-04-08T06:20:33.935Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-04-08T06:20:33.935Z] > authorizing via signed-in user
+[debug] [2018-04-08T06:20:33.936Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/smart-irrigation-system-191707  
+  
+ Sun Apr 08 2018 13:20:33 GMT+0700 (+07)
+[debug] [2018-04-08T06:20:35.672Z] <<< HTTP RESPONSE 200
+[debug] [2018-04-08T06:20:35.673Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/smart-irrigation-system-191707/tokens  
+  
+ Sun Apr 08 2018 13:20:35 GMT+0700 (+07)
+[debug] [2018-04-08T06:20:44.486Z] <<< HTTP RESPONSE 200
+[debug] [2018-04-08T06:20:44.487Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/smart-irrigation-system-191707  
+  
+ Sun Apr 08 2018 13:20:44 GMT+0700 (+07)
